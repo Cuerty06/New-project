@@ -1,0 +1,66 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 2443 >>
+stream
+BT /F2 20 Tf 1 0 0 1 48 744 Tm (Repository App Summary) Tj ET
+BT /F1 10 Tf 1 0 0 1 48 729 Tm (Generated from repo evidence on 2026-03-24. Current repo contains only .git metadata.) Tj ET
+BT /F2 12 Tf 1 0 0 1 48 710 Tm (WHAT IT IS) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 695 Tm (This repository does not currently contain application source code, docs, config, or commit history.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 682 Tm (Based on the checked-out contents, it is an empty Git repository rather than a runnable app.) Tj ET
+BT /F2 12 Tf 1 0 0 1 48 664 Tm (WHO IT IS FOR) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 649 Tm (Primary user/persona: Not found in repo.) Tj ET
+BT /F2 12 Tf 1 0 0 1 48 631 Tm (WHAT IT DOES) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 616 Tm (- Tracks version control metadata via Git.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 603 Tm (- Has a repository initialized on branch main.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 590 Tm (- Contains Git hook samples under .git/hooks.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 577 Tm (- Shows no commits in history.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 564 Tm (- Shows no configured remote origin.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 551 Tm (- Shows no application files or assets.) Tj ET
+BT /F2 12 Tf 1 0 0 1 48 533 Tm (HOW IT WORKS) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 518 Tm (Architecture overview based only on repo evidence:) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 505 Tm (Components/services: Git repository metadata only.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 492 Tm (Data flow: Not found in repo.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 479 Tm (App services: Not found in repo.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 466 Tm (Storage/schema: Not found in repo.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 453 Tm (Runtime/infrastructure: Not found in repo.) Tj ET
+BT /F2 12 Tf 1 0 0 1 48 435 Tm (HOW TO RUN) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 420 Tm (1. Running steps for the app: Not found in repo.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 407 Tm (2. There is no entry point, dependency manifest, or README to follow.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 394 Tm (3. To make this runnable, add app source files and setup docs to the repository.) Tj ET
+BT /F2 12 Tf 1 0 0 1 48 376 Tm (REPO EVIDENCE USED) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 361 Tm (- Root directory lists only .git/.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 348 Tm (- git status: No commits yet on main.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 335 Tm (- git log: no history available.) Tj ET
+BT /F1 11 Tf 1 0 0 1 48 322 Tm (- git config --get remote.origin.url: no remote found.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000327 00000 n 
+0000000402 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2896
+%%EOF
